@@ -17,35 +17,28 @@ Here are some ideas to get you started:
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
-| 1 | **Java Maven:** Read And Write Operation with Docx File | [https://github.com/Kalpesh14m/Read-Write-Docx-File-Maven](https://github.com/Kalpesh14m/Read-Write-Docx-File-Maven) |
-| 2 | **MYSQL Learning** | [https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning) |
 | 3 | **SpringBoot:** Object Binding Demo(Constructor injuction, ModelMapper, BeanUtility) | [https://github.com/Kalpesh14m/Spring-Boot-Object-Binding-Demo](https://github.com/Kalpesh14m/Spring-Boot-Object-Binding-Demo) |
-| 4 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
-| 5 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
-| 6 | **Github:** Commands Learning | [https://github.com/Kalpesh14m/Github-Learning](https://github.com/Kalpesh14m/Github-Learning) |
-| 7 | **Github:** README file Templates | [https://github.com/Kalpesh14m/README-Templates](https://github.com/Kalpesh14m/README-Templates) |
-| 8 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
-| 9 | **Python:** Bat an Ball Game | [https://github.com/Kalpesh14m/Bat-an-Ball-Game-Python](https://github.com/Kalpesh14m/Bat-an-Ball-Game-Python) |
-| 10 | **AWS:** Spring Hello Wrld | [https://github.com/Kalpesh14m/finally-spring-hello-world-run-AWS](https://github.com/Kalpesh14m/finally-spring-hello-world-run-AWS) |
-| 11 | **Python:** Python For Everybody Answers | [https://github.com/Kalpesh14m/Python-For-Everybody-Answers](https://github.com/Kalpesh14m/Python-For-Everybody-Answers) |
-| 12 | **SpringMVC:** Hello World Demo | [https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo](https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo) |
-| 13 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
 | 14 | **SpringBoot:** Many To Many | [https://github.com/Kalpesh14m/SringBoot-Many-To-Many-Relationship](https://github.com/Kalpesh14m/SringBoot-Many-To-Many-Relationship) |
-| 15 | **Python:** Basics Code Learning | [https://github.com/Kalpesh14m/Python-Basics-Code](https://github.com/Kalpesh14m/Python-Basics-Code) |
-| 16 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
 | 17 | **SpringBoot:** One To Many | [https://github.com/Kalpesh14m/Spring-Boot-One-To-Many-Relationship](https://github.com/Kalpesh14m/Spring-Boot-One-To-Many-Relationship) |
-| 18 |  | []() |
-| 19 |  | []() |
-| 20 |  | []() |
-| 21 |  | []() |
-| 22 |  | []() |
-| 23 |  | []() |
-| 24 |  | []() |
-| 25 |  | []() |
-| 26 |  | []() |
-| 27 |  | []() |
-| 28 |  | []() |
-| 29 |  | []() |
-| 30 |  | []() |
+| 18 | **SpringBoot:** Online Bookstore App | [https://github.com/Kalpesh14m/Online-Bookstore-App-Java](https://github.com/Kalpesh14m/Online-Bookstore-App-Java) |
+| 22 | **SpringBoot:** Paytm Integration | [https://github.com/Kalpesh14m/spring-boot-paytm-integration](https://github.com/Kalpesh14m/spring-boot-paytm-integration) |
+| 23 | **SpringBoot** Multiple Datasource With MySQL | [https://github.com/Kalpesh14m/spring-boot-multiple-datasource](https://github.com/Kalpesh14m/spring-boot-multiple-datasource) |
+| 24 | **SpringBoot With MySQL** | [https://github.com/Kalpesh14m/Spring-boot-mysql](https://github.com/Kalpesh14m/Spring-boot-mysql) |
+| 26 | **SpringBoot:** Facebook Integration | [https://github.com/Kalpesh14m/Spring-Boot-security-facebook-example](https://github.com/Kalpesh14m/Spring-Boot-security-facebook-example) |
+| 28 | **SpringBoot:** Scheduler | [https://github.com/Kalpesh14m/spring-boot-scheduler](https://github.com/Kalpesh14m/spring-boot-scheduler) |
+| 32 | **SpringBoot:** RabbitMQ With JMS Templet | [https://github.com/Kalpesh14m/RabbitMQ-With-JMS-Templet-Learning](https://github.com/Kalpesh14m/RabbitMQ-With-JMS-Templet-Learning) |
+| 34 | **SpringBoot:** Hibernet With Custom Configuration | [https://github.com/Kalpesh14m/Spring-Boot-Hibernet-With-Custom-Config-Learning](https://github.com/Kalpesh14m/Spring-Boot-Hibernet-With-Custom-Config-Learning) |
+| 35 | **SpringBoot:** JAP MYSQL WITH YML SWAGGER2 CUSTOMREPOSITORY LEARNING | [https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING](https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING) |
+| 36 | **SpringBoot:** Swagger Configuration Learning | [https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo](https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo) |
+| 37 | **SpringBoot:** JWT | [https://github.com/Kalpesh14m/Spring-Boot-JWT](https://github.com/Kalpesh14m/Spring-Boot-JWT) |
+| 39 | **SpringBoot:** All Annotations | [https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning](https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning) |
+| 43 | **SpringBoot:** Fundoo Application | [https://github.com/Kalpesh14m/Fundoo](https://github.com/Kalpesh14m/Fundoo) |
+| 45 | **SpringBoot:** Login Registration With Swagger | [https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger](https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger) |
+| 48 | **SpringBoot:** Request Methods Learning | [https://github.com/Kalpesh14m/Spring-Boot-Request-Methods-Learning](https://github.com/Kalpesh14m/Spring-Boot-Request-Methods-Learning) |
+| 49 | **SpringBoot:** RadiceCache | [https://github.com/Kalpesh14m/Radice-Cache](https://github.com/Kalpesh14m/Radice-Cache) |
+| 50 | **SpringBoot:** RabbitMQ | [https://github.com/Kalpesh14m/Rabbit-MQ](https://github.com/Kalpesh14m/Rabbit-MQ) |
+| 51 | **SpringBoot:** RabbitMQ | [https://github.com/Kalpesh14m/RabbitMQ](https://github.com/Kalpesh14m/RabbitMQ) |
+| 52 | **SpringBoot:** | [https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo](https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo) |
+
 
 
