@@ -62,18 +62,27 @@ Here are some ideas to get you started:
 | 43 | **SpringBoot:** Fundoo Application | [https://github.com/Kalpesh14m/Fundoo](https://github.com/Kalpesh14m/Fundoo) |
 | 44 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
 | 45 | **SpringBoot:** Login Registration With Swagger | [https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger](https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger) |
-| 46 |  | []() |
-| 47 |  | []() |
-| 48 |  | []() |
-| 49 |  | []() |
-| 50 |  | []() |
-| 51 |  | []() |
-| 52 |  | []() |
-| 53 |  | []() |
-| 54 |  | []() |
-| 55 |  | []() |
-| 56 |  | []() |
-| 57 |  | []() |
-| 58 |  | []() |
-| 59 |  | []() |
-| 60 |  | []() |
+| 46 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
+| 47 | **MicroService** | [https://github.com/Kalpesh14m/Micro-Services](https://github.com/Kalpesh14m/Micro-Services) |
+| 48 | **SpringBoot:** Request Methods Learning | [https://github.com/Kalpesh14m/Spring-Boot-Request-Methods-Learning](https://github.com/Kalpesh14m/Spring-Boot-Request-Methods-Learning) |
+| 49 | **SpringBoot:** RadiceCache | [https://github.com/Kalpesh14m/Radice-Cache](https://github.com/Kalpesh14m/Radice-Cache) |
+| 50 | **SpringBoot:** RabbitMQ | [https://github.com/Kalpesh14m/Rabbit-MQ](https://github.com/Kalpesh14m/Rabbit-MQ) |
+| 51 | **SpringBoot:** RabbitMQ | [https://github.com/Kalpesh14m/RabbitMQ](https://github.com/Kalpesh14m/RabbitMQ) |
+| 52 | **SpringBoot:** | [https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo](https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo) |
+| 53 |**Docker:** Docker Learning | [https://github.com/Kalpesh14m/Docker-Demo](https://github.com/Kalpesh14m/Docker-Demo) |
+| 54 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
+| 55 | **Servlet** | [https://github.com/Kalpesh14m/Servlet-Demo](https://github.com/Kalpesh14m/Servlet-Demo) |
+| 56 | **Angular:** Login Register | [https://github.com/Kalpesh14m/Angular-Login-Register](https://github.com/Kalpesh14m/Angular-Login-Register) |
+| 57 | **SpringMVC:** All Learning | [https://github.com/Kalpesh14m/Spring-MVC-All-Learning](https://github.com/Kalpesh14m/Spring-MVC-All-Learning) |
+| 58 | **SpringMVC:** Hibernet | [https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning) |
+| 59 | **Python:** TK Demo | [https://github.com/Kalpesh14m/TK_Demo](https://github.com/Kalpesh14m/TK_Demo) |
+| 60 | **Books** | [https://github.com/Kalpesh14m/Books](https://github.com/Kalpesh14m/Books) |
+| 61 | **Python:** MatplotLib | [https://github.com/Kalpesh14m/MatplotLib-Demo](https://github.com/Kalpesh14m/MatplotLib-Demo) |
+| 62 | **Python:** Other-Python-Code | [https://github.com/Kalpesh14m/Other-Python-Code](https://github.com/Kalpesh14m/Other-Python-Code) |
+| 63 | **Python:** OpenCV | [https://github.com/Kalpesh14m/OpenCV-Tutorial](https://github.com/Kalpesh14m/OpenCV-Tutorial) |
+| 64 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
+| 65 | **CoreJava:** New Java Programs | [https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
+| 66 | **CoreJava:** New Java Demo | [https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
+| 67 | **CoreJava** | [https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
+| 68 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
+
