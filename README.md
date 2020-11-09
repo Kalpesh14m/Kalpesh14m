@@ -54,8 +54,26 @@ Here are some ideas to get you started:
 | 35 | **SpringBoot:** JAP MYSQL WITH YML SWAGGER2 CUSTOMREPOSITORY LEARNING | [https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING](https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING) |
 | 36 | **SpringBoot:** Swagger Configuration Learning | [https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo](https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo) |
 | 37 | **SpringBoot:** JWT | [https://github.com/Kalpesh14m/Spring-Boot-JWT](https://github.com/Kalpesh14m/Spring-Boot-JWT) |
-| 38 |  | []() |
-| 39 |  | []() |
-| 40 |  | []() |
-
-
+| 38 | **SpringMVC:** Hibernet Learning | [https://github.com/Kalpesh14m/Spring-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-Hibernet-Learning) |
+| 39 | **SpringBoot:** All Annotations | [https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning](https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning) |
+| 40 | **SpringMVC Learning** | [https://github.com/Kalpesh14m/Spring-MVC-Learning](https://github.com/Kalpesh14m/Spring-MVC-Learning) |
+| 41 | **Spring** | [https://github.com/Kalpesh14m/Learning-Spring](https://github.com/Kalpesh14m/Learning-Spring) |
+| 42 | **Servlet:** Login Registration Demo | [https://github.com/Kalpesh14m/Servlet-Login-Reg-Demo](https://github.com/Kalpesh14m/Servlet-Login-Reg-Demo) |
+| 43 | **SpringBoot:** Fundoo Application | [https://github.com/Kalpesh14m/Fundoo](https://github.com/Kalpesh14m/Fundoo) |
+| 44 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
+| 45 | **SpringBoot:** Login Registration With Swagger | [https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger](https://github.com/Kalpesh14m/Spring-Boot-Login-Registration-With-Swagger) |
+| 46 |  | []() |
+| 47 |  | []() |
+| 48 |  | []() |
+| 49 |  | []() |
+| 50 |  | []() |
+| 51 |  | []() |
+| 52 |  | []() |
+| 53 |  | []() |
+| 54 |  | []() |
+| 55 |  | []() |
+| 56 |  | []() |
+| 57 |  | []() |
+| 58 |  | []() |
+| 59 |  | []() |
+| 60 |  | []() |
