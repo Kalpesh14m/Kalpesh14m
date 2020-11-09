@@ -34,18 +34,28 @@ Here are some ideas to get you started:
 | 15 | **Python:** Basics Code Learning | [https://github.com/Kalpesh14m/Python-Basics-Code](https://github.com/Kalpesh14m/Python-Basics-Code) |
 | 16 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
 | 17 | **SpringBoot:** One To Many | [https://github.com/Kalpesh14m/Spring-Boot-One-To-Many-Relationship](https://github.com/Kalpesh14m/Spring-Boot-One-To-Many-Relationship) |
-| 18 |  | []() |
-| 19 |  | []() |
-| 20 |  | []() |
-| 21 |  | []() |
-| 22 |  | []() |
-| 23 |  | []() |
-| 24 |  | []() |
-| 25 |  | []() |
-| 26 |  | []() |
-| 27 |  | []() |
-| 28 |  | []() |
-| 29 |  | []() |
-| 30 |  | []() |
+| 18 | **SpringBoot:** Online Bookstore App | [https://github.com/Kalpesh14m/Online-Bookstore-App-Java](https://github.com/Kalpesh14m/Online-Bookstore-App-Java) |
+| 19 | **Angular:** Online Bookstore App | [https://github.com/Kalpesh14m/Online-Bookstore-App-Angular](https://github.com/Kalpesh14m/Online-Bookstore-App-Angular) |
+| 20 | **Python:** Demo Learning Code | [https://github.com/Kalpesh14m/Python-demo-Projects](https://github.com/Kalpesh14m/Python-demo-Projects) |
+| 21 | **CSS And Bootstrap** | [https://github.com/Kalpesh14m/Learning-With-CSS-And-Bootstrap4](https://github.com/Kalpesh14m/Learning-With-CSS-And-Bootstrap4) |
+| 22 | **SpringBoot:** Paytm Integration | [https://github.com/Kalpesh14m/spring-boot-paytm-integration](https://github.com/Kalpesh14m/spring-boot-paytm-integration) |
+| 23 | **SpringBoot** Multiple Datasource With MySQL | [https://github.com/Kalpesh14m/spring-boot-multiple-datasource](https://github.com/Kalpesh14m/spring-boot-multiple-datasource) |
+| 24 | **SpringBoot With MySQL** | [https://github.com/Kalpesh14m/Spring-boot-mysql](https://github.com/Kalpesh14m/Spring-boot-mysql) |
+| 25 | **Angular** | [https://github.com/Kalpesh14m/Angular-Learning](https://github.com/Kalpesh14m/Angular-Learning) |
+| 26 | **SpringBoot:** Facebook Integration | [https://github.com/Kalpesh14m/Spring-Boot-security-facebook-example](https://github.com/Kalpesh14m/Spring-Boot-security-facebook-example) |
+| 27 | **SpringMVC:** Security CORS Learning | [https://github.com/Kalpesh14m/spring-security-cors-example](https://github.com/Kalpesh14m/spring-security-cors-example) |
+| 28 | **SpringBoot:** Scheduler | [https://github.com/Kalpesh14m/spring-boot-scheduler](https://github.com/Kalpesh14m/spring-boot-scheduler) |
+| 29 | **AWS:** Deployment With Elastic BeanStalk | [https://github.com/Kalpesh14m/AWS-Learning-With-Elastic-BeanStalk](https://github.com/Kalpesh14m/AWS-Learning-With-Elastic-BeanStalk) |
+| 30 | **Docker:** Hello World With Spring Boot | [https://github.com/Kalpesh14m/Docker-Hello-World-Spring-Boot-Learning](https://github.com/Kalpesh14m/Docker-Hello-World-Spring-Boot-Learning) |
+| 31 | **AWS:** Create AWS IAM User | [https://github.com/Kalpesh14m/Create-AWS-IAM-User](https://github.com/Kalpesh14m/Create-AWS-IAM-User) |
+| 32 | **SpringBoot:** RabbitMQ With JMS Templet | [https://github.com/Kalpesh14m/RabbitMQ-With-JMS-Templet-Learning](https://github.com/Kalpesh14m/RabbitMQ-With-JMS-Templet-Learning) |
+| 33 | **CoreJava:** Programs | [https://github.com/Kalpesh14m/Core-Java-Programs](https://github.com/Kalpesh14m/Core-Java-Programs) |
+| 34 | **SpringBoot:** Hibernet With Custom Configuration | [https://github.com/Kalpesh14m/Spring-Boot-Hibernet-With-Custom-Config-Learning](https://github.com/Kalpesh14m/Spring-Boot-Hibernet-With-Custom-Config-Learning) |
+| 35 | **SpringBoot:** JAP MYSQL WITH YML SWAGGER2 CUSTOMREPOSITORY LEARNING | [https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING](https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING) |
+| 36 | **SpringBoot:** Swagger Configuration Learning | [https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo](https://github.com/Kalpesh14m/Spring-Boot-Swagger-Demo) |
+| 37 | **SpringBoot:** JWT | [https://github.com/Kalpesh14m/Spring-Boot-JWT](https://github.com/Kalpesh14m/Spring-Boot-JWT) |
+| 38 |  | []() |
+| 39 |  | []() |
+| 40 |  | []() |
 
 
