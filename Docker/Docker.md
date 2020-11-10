@@ -1,5 +1,7 @@
 # Docker :man_technologist:	:computer:
 
+![](https://user-images.githubusercontent.com/25608527/98731273-801e5b00-23c3-11eb-9728-6101bbf54af8.jpeg)
+
 ---
 
 ## ![What is Docker](https://docs.docker.com/get-started/overview/) and why it is used?
