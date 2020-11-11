@@ -1,27 +1,26 @@
-### Hi there 👋
+# SpringMVC :man_technologist:	:computer:
 
-<!--
-**Kalpesh14m/Kalpesh14m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Spring Web MVC framework provides Model-View-Controller (MVC) architecture and ready components that can be used to develop flexible and loosely coupled web applications. The MVC pattern results in separating the different aspects of the application (input logic, business logic, and UI logic), while providing a loose coupling between these elements.
 
-Here are some ideas to get you started:
+- The **Model** encapsulates the application data and in general they will consist of POJO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- The **View** is responsible for rendering the model data and in general it generates HTML output that the client's browser can interpret.
+
+- The **Controller** is responsible for processing user requests and building an appropriate model and passes it to the view for rendering.
+
+---
+
+![](https://user-images.githubusercontent.com/25608527/98763430-022c7500-2400-11eb-9523-53ec8f6c22a0.jpg)
+
+---
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
-| 12 | **SpringMVC:** Hello World Demo | [https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo](https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo) |
-| 27 | **SpringMVC:** Security CORS Learning | [https://github.com/Kalpesh14m/spring-security-cors-example](https://github.com/Kalpesh14m/spring-security-cors-example) |
-| 38 | **SpringMVC:** Hibernet Learning | [https://github.com/Kalpesh14m/Spring-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-Hibernet-Learning) |
-| 40 | **SpringMVC Learning** | [https://github.com/Kalpesh14m/Spring-MVC-Learning](https://github.com/Kalpesh14m/Spring-MVC-Learning) |
-| 41 | **SpringMVC** | [https://github.com/Kalpesh14m/Learning-Spring](https://github.com/Kalpesh14m/Learning-Spring) |
-| 57 | **SpringMVC:** All Learning | [https://github.com/Kalpesh14m/Spring-MVC-All-Learning](https://github.com/Kalpesh14m/Spring-MVC-All-Learning) |
-| 58 | **SpringMVC:** Hibernet | [https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning) |
+| 1 | **SpringMVC:** Hello World Demo | [https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo](https://github.com/Kalpesh14m/SpringMVC-Hello-World-Demo) |
+| 2 | **SpringMVC Learning** | [https://github.com/Kalpesh14m/Spring-MVC-Learning](https://github.com/Kalpesh14m/Spring-MVC-Learning) |
+| 3 | **SpringMVC** | [https://github.com/Kalpesh14m/Learning-Spring](https://github.com/Kalpesh14m/Learning-Spring) |
+| 4 | **SpringMVC:** All Learning | [https://github.com/Kalpesh14m/Spring-MVC-All-Learning](https://github.com/Kalpesh14m/Spring-MVC-All-Learning) |
+| 5 | **SpringMVC:** Security CORS Learning | [https://github.com/Kalpesh14m/spring-security-cors-example](https://github.com/Kalpesh14m/spring-security-cors-example) |
+| 6 | **SpringMVC:** Hibernet Learning | [https://github.com/Kalpesh14m/Spring-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-Hibernet-Learning) |
+| 7 | **SpringMVC:** Hibernet | [https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning](https://github.com/Kalpesh14m/Spring-MVC-With-Hibernet-Learning) |
 
