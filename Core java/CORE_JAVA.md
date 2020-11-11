@@ -1,5 +1,8 @@
 # Core Java :man_technologist:	:computer:
 
+
+![](https://user-images.githubusercontent.com/25608527/98761951-8da40700-23fc-11eb-9f1a-b7c407b1f37f.jpeg)
+
 Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
 
 Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the Oak name to Java.
@@ -19,6 +22,19 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 - Robotics
 - Games, etc.
 
+---
+
+![](https://user-images.githubusercontent.com/25608527/98761955-90066100-23fc-11eb-9962-26305a602683.png)
+
+---
+
+![](https://user-images.githubusercontent.com/25608527/98761961-93015180-23fc-11eb-863c-17aa373a463c.png)
+
+---
+
+![](https://user-images.githubusercontent.com/25608527/98761966-94327e80-23fc-11eb-8635-fe5ba25e00c2.png)
+
+---
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
