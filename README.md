@@ -1,16 +1,20 @@
-Hello, I'm Kalpesh mali!india wave
+## Hello, I'm Kalpesh mali!india wave
 
-About Me man_technologist :
+---
 
-Check out my [personal website](http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/).➠
+### About Me man_technologist :
 
-Check out my [Youtube Channel](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw).➠ [CodeDictator](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw)
+### Check out my [personal website](http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/).➠
 
-Check out my [Instagram Page](https://www.instagram.com/codedictator/).➠ [CodeDictator](https://www.instagram.com/codedictator/)
+### Check out my [Youtube Channel](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw).➠ [CodeDictator](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw)
 
-[CodeDictator Github Id:](https://github.com/CodeDictators)
+### Check out my [Instagram Page](https://www.instagram.com/codedictator/).➠ [CodeDictator](https://www.instagram.com/codedictator/)
 
-Index of Learning:
+### [CodeDictator Github Id:](https://github.com/CodeDictators)
+
+---
+
+## Index of Learning:
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
