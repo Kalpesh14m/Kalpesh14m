@@ -1,8 +1,8 @@
-## Hello, I'm Kalpesh mali!india wave
+## Hello, I'm Kalpesh mali! :india:
 
 ---
 
-### About Me man_technologist :
+### About Me :man_technologist: :computer:
 
 ### Check out my [personal website](http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/).➠
 
