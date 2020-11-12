@@ -46,10 +46,11 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 | 6 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
 | 7 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
 | 8 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
-| 9 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
-| 10 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
-| 11 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
-| 12 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
-| 13 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
-| 14 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
-| 15 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
+| 9 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning)|
+| 10 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
+| 11 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
+| 12 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
+| 13 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
+| 14 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
+| 15 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
+| 16 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
