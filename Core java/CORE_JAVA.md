@@ -38,17 +38,18 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
-| 1 | **CoreJava:** Programs | [https://github.com/Kalpesh14m/Core-Java-Programs](https://github.com/Kalpesh14m/Core-Java-Programs) |
-| 2 | **CoreJava:** New Java Programs | [https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
-| 3 | **CoreJava:** New Java Demo | [https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
-| 4 | **CoreJava** | [https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
-| 5 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
-| 6 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
-| 7 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
-| 8 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
-| 9 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
-| 10 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
-| 11 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
-| 12 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
-| 13 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
-| 14 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
+| 1 | **CoreJava:** New Java Demo | [https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
+| 2 | **Java 8 Features:** | [https://github.com/Kalpesh14m/Java-Eight-All-In-One](https://github.com/Kalpesh14m/Java-Eight-All-In-One) |
+| 3 | **CoreJava:** Programs | [https://github.com/Kalpesh14m/Core-Java-Programs](https://github.com/Kalpesh14m/Core-Java-Programs) |
+| 4 | **CoreJava:** New Java Programs | [https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
+| 5 | **CoreJava** | [https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
+| 6 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
+| 7 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
+| 8 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
+| 9 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
+| 10 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
+| 11 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
+| 12 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
+| 13 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
+| 14 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
+| 15 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
