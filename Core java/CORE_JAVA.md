@@ -46,7 +46,7 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 | 6 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
 | 7 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
 | 8 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
-| 9 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning)|
+| 9 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/JDBC-With-Java](https://github.com/Kalpesh14m/JDBC-With-Java)|
 | 10 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
 | 11 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
 | 12 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
