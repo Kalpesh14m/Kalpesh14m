@@ -39,20 +39,22 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
-| 1 | **CoreJava:** New Java Demo | [https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
-| 2 | **Java 8 Features:** | [https://github.com/Kalpesh14m/Java-Eight-All-In-One](https://github.com/Kalpesh14m/Java-Eight-All-In-One) |
-| 3 | **CoreJava:** Programs | [https://github.com/Kalpesh14m/Core-Java-Programs](https://github.com/Kalpesh14m/Core-Java-Programs) |
-| 4 | **CoreJava:** New Java Programs | [https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
-| 5 | **CoreJava** | [https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
-| 6 | **CoreJava:** First Java Program | [https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
-| 7 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
-| 8 | **CoreJava:** All OOP concepts | [https://github.com/Kalpesh14m/Java-OOP](https://github.com/Kalpesh14m/Java-OOP) |
-| 9 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
-| 10 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/JDBC-With-Java](https://github.com/Kalpesh14m/JDBC-With-Java)|
-| 11 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
-| 12 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
-| 13 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
-| 14 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
-| 15 | **CoreJava:** Chat App | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
-| 16 | **CoreJava:** DemoTest | [https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
-| 17 | **CoreJava With MySQL:** JDBC CURD With OOP | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
+| 1 | **CoreJava:** Programs | [https://github.com/Kalpesh14m/Core-Java-Programs](https://github.com/Kalpesh14m/Core-Java-Programs) |
+| 2 | **CoreJava:** All OOP concepts | [https://github.com/Kalpesh14m/Java-OOP](https://github.com/Kalpesh14m/Java-OOP) |
+| 3 | **CoreJava:** Java Star Patterns | [https://github.com/Kalpesh14m/Java-Star-Patterns](https://github.com/Kalpesh14m/Java-Star-Patterns) |
+| 4 | **CoreJava:** OOP Calculator | [https://github.com/Kalpesh14m/OOP-Calculator-Ex](https://github.com/Kalpesh14m/OOP-Calculator-Ex) |
+| 5 | **Java 8 Features:** | [https://github.com/Kalpesh14m/Java-Eight-All-In-One](https://github.com/Kalpesh14m/Java-Eight-All-In-One) |
+| 6 | **CoreJava:** Junit With Regex  | [https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex](https://github.com/Kalpesh14m/Core-Java-Junit-With-Regex) |
+| 7 | **CoreJava:** Data Structures | [https://github.com/Kalpesh14m/Core-Java-Data-Structures](https://github.com/Kalpesh14m/Core-Java-Data-Structures) |
+| 8 | **CoreJava:** JUnitTesting | [https://github.com/Kalpesh14m/JUnitTesting](https://github.com/Kalpesh14m/JUnitTesting) |
+| 9 | **CoreJava:** Junit Learning | [https://github.com/Kalpesh14m/Core-Java-Junit-Learning](https://github.com/Kalpesh14m/Core-Java-Junit-Learning) |
+| 10 | **CoreJava:** Chat App(Private) | [https://github.com/Kalpesh14m/Chat-App-Java](https://github.com/Kalpesh14m/Chat-App-Java) |
+| 11 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/JDBC-With-Java](https://github.com/Kalpesh14m/JDBC-With-Java)|
+| 12 | **CoreJava With MySQL:** JDBC CURD With pom.xml | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
+
+### Need to work
+[https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
+[https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
+[https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
+[https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
+[https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
