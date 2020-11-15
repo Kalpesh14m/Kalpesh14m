@@ -52,9 +52,3 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 | 11 | **MYSQL Learning and implementation with Java**: |[https://github.com/Kalpesh14m/JDBC-With-Java](https://github.com/Kalpesh14m/JDBC-With-Java)|
 | 12 | **CoreJava With MySQL:** JDBC CURD With pom.xml | [https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo](https://github.com/Kalpesh14m/JDBC-CURD-With-OOP-Demo) |
 
-### Need to work
-[https://github.com/Kalpesh14m/DemoTest](https://github.com/Kalpesh14m/DemoTest) |
-[https://github.com/Kalpesh14m/new_java_demo](https://github.com/Kalpesh14m/new_java_demo) |
-[https://github.com/Kalpesh14m/new-java](https://github.com/Kalpesh14m/new-java) |
-[https://github.com/Kalpesh14m/java](https://github.com/Kalpesh14m/java) |
-[https://github.com/Kalpesh14m/First-Java-Program](https://github.com/Kalpesh14m/First-Java-Program) |
