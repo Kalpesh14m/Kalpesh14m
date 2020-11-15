@@ -56,7 +56,6 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
  
 public class ServletLifeCycle implements Servlet {
-public class ServletLifeCycle implements Servlet {
  
     @Override //Servlet Life Cycle Method
     public void init(ServletConfig config) throws ServletException {
@@ -234,6 +233,7 @@ Follow the below steps:
 
 **NOTE:** The above steps set up the Project structure.
 
+![](https://user-images.githubusercontent.com/25608527/99197375-24cfdc80-27b8-11eb-964e-47bc449ca275.gif)
 
 #### 3.2 Now we will download the `javax servlet jar` and include it in the build path of the project.
 
