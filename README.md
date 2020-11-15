@@ -25,7 +25,7 @@
 | 3 | **Books** | [https://github.com/Kalpesh14m/Books](https://github.com/Kalpesh14m/Books) |
 | 4 | **MYSQL Learning** | [https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning) |
 | 5 | **Core Java** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md) |
-| 6 | **Servlet** |[https://github.com/Kalpesh14m/ServletLearning/blob/main/README.md](https://github.com/Kalpesh14m/ServletLearning/blob/main/README.md) |
+| 6 | **Servlet** |[https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md) |
 | 7 | **SpringMVC** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md) |
 | 8 | **SpringBoot** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spirng%20Boot/Spring_Boot.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spirng%20Boot/Spring_Boot.md) |
 | 9 | **MicroService** | [https://github.com/Kalpesh14m/Micro-Services](https://github.com/Kalpesh14m/Micro-Services) |
