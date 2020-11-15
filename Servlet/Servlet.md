@@ -215,6 +215,8 @@ To run any web application including Servlets, a web server is required. For thi
 
 - Click Finish.
 
+![](https://user-images.githubusercontent.com/25608527/99197484-d242f000-27b8-11eb-9dc1-5339243ea5fc.gif)
+
 ---
 
 ### 3. Creating the Project
