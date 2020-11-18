@@ -27,7 +27,7 @@
 | 5 | **MYSQL Learning** | [https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning) |
 | 6 | **Servlet** |[https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md) |
 | 7 | **SpringMVC** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md) |
-| 8 | **Hibernet:** | [https://github.com/Kalpesh14m/Hibernet-Learning](https://github.com/Kalpesh14m/Hibernet-Learning) |
+| 8 | **Hibernate:** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Hibernate/Hibernate.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Hibernate/Hibernate.md) |
 | 9 | **SpringBoot** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spirng%20Boot/Spring_Boot.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spirng%20Boot/Spring_Boot.md) |
 | 10 | **MicroService** | [https://github.com/Kalpesh14m/Micro-Services](https://github.com/Kalpesh14m/Micro-Services) |
 | 11 | **Python** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Python/Python.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Python/Python.md) |
