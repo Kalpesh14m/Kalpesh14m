@@ -27,7 +27,8 @@ We take an opinionated view of the Spring platform and third-party libraries so 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
 | 1 | **SpringBoot:** | [https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo](https://github.com/Kalpesh14m/Spring-Boot-Simple-Demo) |
-| 2 | **SpringBoot:** All Annotations | [https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning](https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning) |
+| 2.1 | **SpringBoot:** All Annotations | [https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning](https://github.com/Kalpesh14m/Spring-Boot-All-Annotations-Learning) |
+| 2.2 | **SpringBoot:** All Annotations With Description | [https://github.com/Kalpesh14m/Spring-Boot-All-Annotations](https://github.com/Kalpesh14m/Spring-Boot-All-Annotations) |
 | 3 | **SpringBoot:** Object Binding Demo(Constructor injuction, ModelMapper, BeanUtility) | [https://github.com/Kalpesh14m/Spring-Boot-Object-Binding-Demo](https://github.com/Kalpesh14m/Spring-Boot-Object-Binding-Demo) |
 | 4 | **SpringBoot With MySQL** | [https://github.com/Kalpesh14m/Spring-boot-mysql](https://github.com/Kalpesh14m/Spring-boot-mysql) |
 | 5 | **SpringBoot:** JAP MYSQL WITH YML SWAGGER2 CUSTOMREPOSITORY LEARNING | [https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING](https://github.com/Kalpesh14m/JAP-MYSQL-WITH-YML-SWAGGER2-CUSTOMREPOSITORY-LEARNING) |
