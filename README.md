@@ -26,6 +26,12 @@
 
 ---
 
+![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpesh14m&show_icons=true&theme=dark&custom_title=Kalpesh%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalpesh14m&repo=My-All-Certifications&theme=chartreuse-dark)](https://github.com/Kalpesh14m/My-All-Certifications)
+
+---
+
 ## Index of Learning:
 
 | Index | Topics | Repo |
