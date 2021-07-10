@@ -4,15 +4,25 @@
 
 ---
 
-### About Me :man_technologist: :computer:
+## About Me :man_technologist: :computer:
 
-### Check out my [personal website](http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/).➠
+## [personal website](http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/)
 
-### Check out my [Youtube Channel](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw).➠ [CodeDictator](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw)
+|||
+| :-------------: | :-------------: |
+|<a href="https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/youtube.svg)</a>| [CodeDictator](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw)|
+|||
+|<a href="https://www.instagram.com/codedictator/" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/Instagram.svg)</a>|[CodeDictator](https://www.instagram.com/codedictator/)|
+|||
+|<a href="https://github.com/CodeDictators" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/Github.svg)</a>|[CodeDictators](https://github.com/CodeDictators)|
 
-### Check out my [Instagram Page](https://www.instagram.com/codedictator/).➠ [CodeDictator](https://www.instagram.com/codedictator/)
+## Personal IDs:
 
-### [CodeDictator Github Id:](https://github.com/CodeDictators)
+|||
+| :-------------: | :-------------: |
+|<a href="https://www.instagram.com/devil_bunnyy/" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/Instagram.svg)</a>|[Devil_Bunnyy](https://www.instagram.com/devil_bunnyy/)|
+|||
+|<a href="https://github.com/Kalpesh14m" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/Github.svg)</a>|[Kalpesh14m](https://github.com/Kalpesh14m)|
 
 ---
 
